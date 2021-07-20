@@ -1,0 +1,7 @@
+1 = Enviado
+2 = Aprovado
+3 = Recusado
+4 = Cortesia
+5 = Aguardando Faturamento
+6 = Faturado
+7 = Pré Orçamento
